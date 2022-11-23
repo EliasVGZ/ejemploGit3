@@ -44,6 +44,18 @@ Ahora commiteamos el proyecto local y lo subimos al repositorio.
 
 ![image](https://user-images.githubusercontent.com/113994483/203589480-84f9e7a2-e172-4004-9c52-7f929ca3af4d.png)<br>
 
+Observamos que se ha subido correctamente pero en la rama master (que era en la que estábamos trabajando en local), mientras que la rama main se mantiene con su primer commit.<br>
+
+![image](https://user-images.githubusercontent.com/113994483/203593772-64672135-eb61-41b2-838f-07e1afc6402d.png)<br>
+
+![image](https://user-images.githubusercontent.com/113994483/203593783-9f418212-8007-4dad-b189-4ba78843e1a9.png)<br>
+
+8. Eliminamos la rama main en el repositorio de GitHub
+
+
+
+
+
 
 
 
