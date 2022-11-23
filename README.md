@@ -52,6 +52,43 @@ Observamos que se ha subido correctamente pero en la rama master (que era en la 
 
 8. Eliminamos la rama main en el repositorio de GitHub
 
+![image](https://user-images.githubusercontent.com/113994483/203598365-53eb84ad-b618-4307-9942-0dd847444d1b.png)<br>
+
+NO ME DEJA <br>
+
+9. Modificamos el proyecto local (commit: "añadiendo código para probar las propiedades de Java")<br>
+
+![image](https://user-images.githubusercontent.com/113994483/203599283-b642f0a5-5ab0-4d04-aec1-82fbdede8c5f.png)<br>
+
+Si en algún momento se nos olvida algo en un commit, podemos enmendarlo con
+
+git commit --ammend<br>
+que nos pediría editar el mensaje del commit, o con<br>
+
+git commit --ammend --no-edit<br>
+que dejaría el mismo mensaje (aunque cambia el hash ya que el contenido y la hora del commit ha cambiado, es un commit distinto que el que teníamos.)<br>
+
+10. Creamos una nueva rama para corregir un bug:<br>
+
+![image](https://user-images.githubusercontent.com/113994483/203600566-61a7a8cf-919d-4d1e-a744-d8d393667a82.png)<br>
+
+
+11. Corregimos este problem, commiteamos la corrección en la rama y la pusheamos.<br>
+
+![image](https://user-images.githubusercontent.com/113994483/203602161-879d8a98-500e-461f-88f7-c4eafa4d57e2.png)<br>
+
+12. Mergeamos a master la rama con el bug ya solucionado<br>
+
+![image](https://user-images.githubusercontent.com/113994483/203602428-6ccaa5fd-9244-4825-9d54-06fe752c1d3d.png)<br>
+
+13. Añado este README y la carpeta de imágenes.
+
+
+
+
+
+
+
 
 
 
